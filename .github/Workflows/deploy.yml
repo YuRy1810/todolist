@@ -10,7 +10,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
 
-		# Etapes
     steps:
     # 1. Checkout du code source
     - name: Checkout du code
